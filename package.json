@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "start": "node Aive.js"
+    },
+    "name": "Aive",
+    "version": "1.0.0",
+    "description": "Private bot to have fun",
+    "main": "Aive.js",
+    "author": "kaz",
+    "dependencies": {
+        "discord.io": "github:Woor/discord.io#gateway_v6",
+        "winston": "^3.3.3"
+    }
+}
